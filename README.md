@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mohamed Bangura 👋
 
-<!--
-**Mohamed-Bangura/Mohamed-Bangura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer
 
-Here are some ideas to get you started:
+I build responsive and user-friendly websites using modern frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* HTML
+* CSS
+* JavaScript
+* Responsive Web Design
+* Git & GitHub
+* Website Deployment
+
+## 📌 Featured Project
+
+### 🍽️ Savory Bites Restaurant Website
+
+A modern and responsive restaurant website built with HTML, CSS, and JavaScript.
+
+**Live Demo:**
+https://savory-bites-restaurant-ten.vercel.app/
+
+## 🌱 Currently Learning
+
+* Advanced JavaScript
+* React
+* Web Application Development
+
+## 📫 Contact
+
+Email: [prosperbangura9@gmail.com](mailto:prosperbangura9@gmail.com)
+
+---
+
+Thanks for visiting my profile! 🚀
