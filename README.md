@@ -1,36 +1,66 @@
-# Hi, I'm Mohamed Bangura 👋
+# Mohamed Bangura
 
-## Frontend Developer
+**Web Developer | Digital Creative | Technology Enthusiast**
 
-I build responsive and user-friendly websites using modern frontend technologies.
+I'm a web developer and digital creative from Sierra Leone, passionate about building modern, responsive and user-friendly digital experiences.
 
-## 🚀 Skills
+I work on web development, website design and management, graphic design, and AI-powered advertising content. I'm continuously improving my technical skills and exploring new technologies to build practical solutions for businesses and individuals.
 
-* HTML
-* CSS
-* JavaScript
-* Responsive Web Design
-* Git & GitHub
-* Website Deployment
+## 🛠️ What I Do
 
-## 📌 Featured Project
+- Website design and development
+- Responsive and user-friendly web experiences
+- Website maintenance, updates and management
+- Graphic design and digital content creation
+- AI-powered advertising videos
 
-### 🍽️ Savory Bites Restaurant Website
+## 💻 Technologies & Tools
 
-A modern and responsive restaurant website built with HTML, CSS, and JavaScript.
+### Frontend Development
 
-**Live Demo:**
-https://savory-bites-restaurant-ten.vercel.app/
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Backend & Databases — Learning and Development
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🌱 Currently Learning
 
-* Advanced JavaScript
-* React
-* Web Application Development
+- Full-stack web development
+- Backend architecture and API development
+- Database design and management
+- Building practical, scalable web applications
 
-## 📫 Contact
+## 📌 Featured Work
 
-Email: [prosperbangura9@gmail.com](mailto:prosperbangura9@gmail.com)
+### Personal Portfolio
+
+Explore my work, skills and professional background.
+
+**Portfolio:** https://personal-portfolio-nias.vercel.app
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to meaningful collaborations, development opportunities and connecting with people in technology.
+
+- **Based in:** Sierra Leone
+- **Portfolio:** https://personal-portfolio-nias.vercel.app
+- **GitHub:** https://github.com/Mohamed-Bangura
+- **Email:** [prosperbangura9@gmail.com](mailto:prosperbangura9@gmail.com)
 
 ---
 
